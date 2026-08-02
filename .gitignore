@@ -1,0 +1,4 @@
+# README-only repo: resume files (docx/pdf) stay local, never on GitHub
+*
+!README.md
+!.gitignore
